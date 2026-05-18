@@ -1,7 +1,6 @@
-<img width="1774" height="887" alt="ChatGPT Image May 18, 2026, 09_47_59 AM" src="https://github.com/user-attachments/assets/29f3bceb-7d56-441f-895a-8cbb71ecaea8" />
-
 <div align="center">
 
+<img width="1774" height="887" alt="ChatGPT Image May 18, 2026, 09_47_59 AM" src="https://github.com/user-attachments/assets/49692c6a-1c9d-4f88-9a80-58bfec652e12" />
 
 
 <img src="https://img.shields.io/badge/FluxThemeEnabler-v3.2-blueviolet?style=for-the-badge&logo=android" alt="FluxThemeEnabler"/>
