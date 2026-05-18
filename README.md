@@ -26,7 +26,7 @@ Updates & Support → **[t.me/colorosmodules](https://t.me/colorosmodules)**
 
 - Realme UI 7
 - ColorOS 16
-- OxygenOS 16
+- OxygenOS 16 (separate branch)
 
 A lot of ports and unofficial builds either:
 - fail to load Flux wallpapers
